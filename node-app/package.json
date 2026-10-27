@@ -1,0 +1,14 @@
+
+{
+  "name": "proyecto-docker",
+  "version": "1.0.0",
+  "description": "Visualizacion de resultados del proyecto",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
+
